@@ -1,1 +1,0 @@
-arn:aws:iam::241746171539:user/Nikhil
